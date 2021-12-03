@@ -48,6 +48,9 @@ User Interface & deployment :  Created an UI with a form that takes all the nece
    6. Pandas, Numpy 
    7. Streamlit
 
+## Dataset
+[Download here](https://www.kaggle.com/uciml/pima-indians-diabetes-database/download)
+
 ## Installation
 Click here to install [python](https://www.python.org/downloads/). To install the required packages and libraries, run this pip command in the project directory after cloning the repository:
 ```bash
